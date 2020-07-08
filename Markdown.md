@@ -151,13 +151,12 @@ _기울여 쓰기_
 </code></pre>
 <h3 id="🧐-코드-하이라이트">🧐 코드 하이라이트</h3>
 <p>✍<strong>작성</strong></p>
-<pre class=" language-null"><code class="prism  language-null">```아래와 같이 백틱 3개 뒤에 언어 이름을 넣어주세요.
-
-```javascript
+<pre><code>```javascript
 let sumNumbers = (firstNum, lastNum) =&gt; {
   return firstNum + lastNum;
 };
 sumNumbers(100, 200);
+```
 </code></pre>
 <p>👉 <strong>결과</strong></p>
 <pre class=" language-js"><code class="prism  language-js"><span class="token keyword">let</span> <span class="token function-variable function">sumNumbers</span> <span class="token operator">=</span> <span class="token punctuation">(</span>firstNum<span class="token punctuation">,</span> lastNum<span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
