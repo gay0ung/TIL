@@ -243,15 +243,4 @@ __ __ __ __ __ __ __
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> 운동 하기</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> 강의 듣기</li>
 </ul>
-<h2 id="글자-색상">12. 글자 색상</h2>
-<p>html 태그를 이용하여 작성이 가능합니다.</p>
-<p>✍ 마크다운 작성 시</p>
-<pre><code>&lt;span style="color:red"&gt;red&lt;/span&gt;
-&lt;span style="color:#d3d3d3"&gt;#d3d3d3&lt;/span&gt;
-&lt;span style="color:rgb(245, 235, 13)"&gt;rgb(245, 235, 13)&lt;/span&gt;
-</code></pre>
-<p>👉 <strong>결과</strong><br>
-<span>red</span><br>
-<span>#d3d3d3</span><br>
-<span>rgb(245, 235, 13)</span></p>
 
