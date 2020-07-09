@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="📊-chart.js">📊 Chart.js</h1>
 <p>◾ <a href="https://www.chartjs.org/"><strong>Chart.js 사이트</strong></a><br>
 ◾ <a href="https://github.com/chartjs/Chart.js"><strong>깃허브 다운로드 링크 :</strong></a><br>
