@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="markdown">Markdown</h1>
 <p>일반 텍스트 문서의 양식을 편집하는 문법. README파일이나 오라인 문서, 혹인 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성도니 문서는 쉽게 HTML 등 다른 문서형태로 변환 가능 하다.</p>
 <h1 id="📖-how-to-use">📖 how to use?</h1>
@@ -238,5 +243,51 @@ __ __ __ __ __ __ __
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> 운동 하기</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> 강의 듣기</li>
 </ul>
+<h2 id="글자-색상">12. 글자 색상</h2>
+<p>html 태그를 이용하여 작성이 가능합니다.</p>
+<p>✍ 마크다운 작성 시</p>
+<pre><code>&lt;span style="color:red"&gt;red&lt;/span&gt;
+&lt;span style="color:#d3d3d3"&gt;#d3d3d3&lt;/span&gt;
+&lt;span style="color:rgb(245, 235, 13)"&gt;rgb(245, 235, 13)&lt;/span&gt;
+</code></pre>
+<h2 id="표-그리기">13. 표 그리기</h2>
+<pre><code>|  | 수학       | 평가  |  
+|:--- | ---: | :---: |  
+| 철수     | 90   | 참잘했어요. |  
+| 영희      | 50   | 분발하세요. |
+
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right">수학</th>
+<th align="center">평가</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">철수</td>
+<td align="right">90</td>
+<td align="center">참잘했어요.</td>
+</tr>
+<tr>
+<td align="left">영희</td>
+<td align="right">50</td>
+<td align="center">분발하세요.</td>
+</tr>
+</tbody>
+</table><blockquote>
+<ul>
+<li>라인 단위로 생각하면서 구분자(<code>|</code>)로 열을 구분해주면 위와 같이 대충 그려도 알아서 예쁘게 완성된다.</li>
+<li>헤더(머리글)를 분리하고 싶은 경우, 위 예제와 같이 2번째 라인에  <code>---</code>을 사용하면 된다.</li>
+<li>정렬이 필요한 경우, 콜론(<code>:</code>) 기호를 구분선(<code>---</code>) 왼쪽, 오른쪽, 양쪽에 배치한다.</li>
+</ul>
+</blockquote>
+<p>👉 <strong>결과</strong><br>
+<span>red</span><br>
+<span>#d3d3d3</span><br>
+<span>rgb(245, 235, 13)</span></p>
 <h6 id="참고"><a href="https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95">참고</a></h6>
 
