@@ -83,13 +83,35 @@ options:  {
 	},
 },
 ```
+
+# _🔸 plugin_
+##### plugin npm 설치
+```
+npm install chartjs-plugin-datalabels --save
+```
+#### 데이터값 항상 보이게 하기.
+```js
+plugins:  {
+	datalabels:  {
+		color: '#6669',
+		anchor: 'end',
+		align: 'left',	
+		offset: context => {
+			 let index = context.dataIndex;
+			 let model =		 context.dataset._meta[Object.keys(context.dataset._meta)[0]].data[index]._model;
+			 let textX = model.x > 100 ? '0' : '-45';
+			 return textX;
+		},
+	},
+},
+```
+
 ----
 #### 참고
 
 > ###### [크기 조정하기](https://ming9mon.tistory.com/108?category=841705)
 > ######  [데이터 세팅하기](https://ming9mon.tistory.com/109?category=841705)
 > ######  [배경,폰트,라인, 라벨 색상 변경](https://ming9mon.tistory.com/122?category=841705)
-> ###### [데이터 항상 보이게 설정](https://ming9mon.tistory.com/123?category=841705)
 > ###### [y축 데이터 범위 설정](https://ming9mon.tistory.com/124?category=841705)
 
 
