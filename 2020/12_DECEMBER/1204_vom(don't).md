@@ -26,7 +26,7 @@
 - [ ] 9 _ 12 /10 목
 
 **REACT공식문서**
-
+[enter link description here](https://ko.reactjs.org/docs/getting-started.html)
 - [x] hello world
 - [x] JSX소개
 - [ ] 엘리먼트 렌더링
