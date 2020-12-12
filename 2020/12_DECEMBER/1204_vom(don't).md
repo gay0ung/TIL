@@ -11,32 +11,24 @@
 ### 2. **자바스크립트33개념**
  - [x] 7
 - [ ] 8
-- [ ] 9
+- [x] 9
 
 ### 3. **리엑트공부하기**
 **section2**
 - [x] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4 _ 12 / 8 화
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 _ 12 /10 목
+- [x] 2
+- [x] 3
+- [x] 4 _ 12 / 8 화
+- [x] 5
+- [x] 6
+- [x] 7
+- [x] 8
+- [x] 9 _ 12 /10 목
 
 **REACT공식문서**
 [enter link description here](https://ko.reactjs.org/docs/getting-started.html)
 - [x] hello world
 - [x] JSX소개
-- [ ] 엘리먼트 렌더링
-- [ ] Component와 Props
-- [ ] State와 생명주기
-- [ ] 이벤트 처리하기
-- [ ] 조건부 렌더링
-- [ ] 리스트와 key
-- [ ] 폼
-- [ ] State 끌어올리기
-- [ ] 합성 vs 상속
-- [ ] React로 생각하기
+- [x] 엘리먼트 렌더링
+- [x] Component와 Props
 
