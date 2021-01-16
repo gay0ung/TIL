@@ -4,7 +4,7 @@
 - vue파일 에서는 `$ store`가 가능 하지만 다른 `js,html`같은 곳에서는 `import store`를 해줘서 `store.~~` 로 사용 해줘야 한다.
 
 **statistics**
-- `v-show === display:non`e과 같아 (dom상에서 아예 사라졌다가 생긴다)
+- `v-show === display="none"` 과 같다 (dom상에서 아예 사라졌다가 생긴다)
 
 
 
