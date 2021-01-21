@@ -10,9 +10,9 @@
 
 ---
 ### HOME WORK_ 망고모임공간 11am까지_강남역9번출구
-- [ ] 면접 질문 목록 ★★★★_ 5 ~ 8 
+- [x] 면접 질문 목록 ★★★★_ 5 ~ 8 
 - [x] 4번 다시 복습하기(자바스크립트란 무엇인가 / 비동기)
-- [ ] 머니부 세팅값코드 공부
+- [x] 머니부 세팅값코드 공부
 - [ ] ari-bnb header부분 만들어 보기
 - [ ] HTTP통신 공부하기
 - [https://cordelia273.space/11](https://cordelia273.space/11 "https://cordelia273.space/11")
