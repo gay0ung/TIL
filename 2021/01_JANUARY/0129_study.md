@@ -4,7 +4,7 @@
 - **3.** [SPA와 SSR](https://github.com/gay0ung/TIL/blob/master/2021/01_JANUARY/0125.md)
 -  **4.** [require 과 import의 차이점](https://velog.io/@gay0ung/require-import)
 ---
-### HOME WORK
+### HOME WORK_망고모임 am11-4 _강남역
  - [ ]  mvvm 과 mvm패턴 공부하기
  - [ ] 검색엔진 최적화 방법 공부하기
 		- https://library.gabia.com/contents/domain/4359/
