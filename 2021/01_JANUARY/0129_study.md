@@ -19,5 +19,7 @@
 	- [ ] 11
 	- [ ] 12 
 
-##  🔴 [SASS/SCSS](https://velog.io/@gay0ung/SASSSCSS)
+##  🔴 SASS/SCSS
+
+[정리한 내용](https://velog.io/@gay0ung/SASSSCSS) | [코드 보기](https://github.com/gay0ung/TIL_note/tree/master/FLEX&GRID/SCSS/src/scss)
 
