@@ -1,5 +1,4 @@
 # 👑 GRID
-(S)CSS Layout Masterclass: Flexbox & Grid
 
 
 # parents
