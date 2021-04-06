@@ -1,8 +1,8 @@
-# 👑 SCSS Masterclass_ GRID
+# 👑 GRID
 (S)CSS Layout Masterclass: Flexbox & Grid
 
 
-# ==parents==
+# parents
 ## ◼ display:grid
 ```css
  display:grid;
@@ -38,7 +38,7 @@ grid-template-rows:  repeat(4,  100px  [sexy-line]);
 ### "fr ( *fraction*)"
 
     grid-template-columns:  4fr  1fr  1fr  1fr;
-![enter image description here](https://ifh.cc/g/o9eSLW.jpg)
+
 - `grid` 안에서 가능하다
 - 가능한 많은공간을 차지한다.(% 와 비슷한 기능)
 
@@ -186,7 +186,7 @@ grid-auto-flow:  column;
 ```
 
 - 일렬로 나열된다.
-# ==child==
+# child
 
 ## ◼ grid-column-start/end
     grid-column-start:1 ;
