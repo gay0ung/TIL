@@ -51,4 +51,4 @@ https://github.com/gay0ung/TIL/blob/master/%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%
 - [SCSS](https://github.com/gay0ung/TIL/blob/master/%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC/SCSS.md)
 
 # 🟢 Vue.js
-- vue-life-cycle(https://github.com/gay0ung/TIL/blob/master/%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC/vue_life_cycle.md)
+- [vue-life-cycle](https://github.com/gay0ung/TIL/blob/master/%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC/vue_life_cycle.md)
