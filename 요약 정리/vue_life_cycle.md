@@ -1,5 +1,8 @@
 # 💫 vue.js 라이프 사이클
 
+![enter image description here](https://github.com/gay0ung/TIL_note/blob/master/images/vue/vue-life-cycle.jpg)
+ 
+
 ## 1. beforeCreate
 ```
 첫 싸이클 시작 단계
