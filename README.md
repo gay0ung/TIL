@@ -22,8 +22,8 @@
  - [2월](https://github.com/gay0ung/TIL/tree/master/2021/02_FABRUARY) : 머니부 코드리뷰,영화 프로젝트, 리액트 이론
  - [3월](https://github.com/gay0ung/TIL/tree/master/2021/03_MARCH) : react project "졸작", 리액트,이론
  - [4월](https://github.com/gay0ung/TIL/tree/master/2021/04_APRIL) :  react project "졸작",
- - [5월](https://github.com/gay0ung/TIL/tree/master/2021/05_MAY) : react project "졸작", [book]core 자바스크립트, typescript(복습.part1), 영화 리팩토링
- - [6월](https://github.com/gay0ung/TIL/tree/master/2021/06_JUNE) : typescript(part2), 영화 리팩토링, 백준 알고리즘, node.js
+ - [5월](https://github.com/gay0ung/TIL/tree/master/2021/05_MAY) : react project "졸작", typescript(복습.part1), 영화 리팩토링
+ - [6월](https://github.com/gay0ung/TIL/tree/master/2021/06_JUNE) : typescript(part2), 영화 리팩토링, node.js
 </details>
 
 
